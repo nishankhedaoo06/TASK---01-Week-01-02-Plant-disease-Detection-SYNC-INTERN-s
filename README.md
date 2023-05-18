@@ -1,0 +1,1 @@
+# SYNC-INTERN-s-TASK---01-Week-01-02-Plant-disease-Detection-W
